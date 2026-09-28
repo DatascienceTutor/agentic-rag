@@ -60,7 +60,7 @@ An Enterprise Retrieval-Augmented Generation (RAG) assistant built with **Stream
 
 1. **Run the Streamlit application:**
    ```bash
-   streamlit run app.py
+   streamlit run ui/app.py
    ```
 
 2. **Interact:**
